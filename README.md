@@ -1,6 +1,6 @@
 # RNAFolding
 
-This project provides tools and scripts for RNA secondary structure prediction and analysis.
+This project provides tools and scripts for RNA secondary structure prediction and analysis using Quantum algorithms.
 
 ## Project Structure
 - `src/` - Source code for RNA folding algorithms and utilities
