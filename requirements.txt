@@ -1,0 +1,6 @@
+biopython
+qiskit
+qiskit-aer
+qiskit-algorithms
+scipy
+matplotlib

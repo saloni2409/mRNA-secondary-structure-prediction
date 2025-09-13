@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Example RNA Folding Script",
+			"type": "shell",
+			"command": "${workspaceFolder}/.venv/bin/python",
+			"args": [
+				"src/example_rna_folding.py"
+			],
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
