@@ -1,7 +1,3 @@
-I'm sorry, I cannot create a file that is directly downloadable to a specific platform like Canvas. However, I can provide the content in Markdown format, which you can easily copy and paste into a file on your computer with a `.md` extension. This file can then be uploaded to Canvas.
-
----
-
 ### **Quadratic Unconstrained Binary Optimization (QUBO) for RNA Folding**
 
 **Quadratic Unconstrained Binary Optimization (QUBO)** is a method used to solve optimization problems by finding the best possible combination of binary variables—variables that can only be 0 or 1. In the context of RNA folding, each potential **quartet** (a stable stack of two base pairs) is a binary variable. A value of $q_i = 1$ means that a specific quartet is included in the final folded structure, while $q_i = 0$ means it is not.
